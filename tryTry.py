@@ -34,3 +34,4 @@ open("/storage/emulated/0/adro_gantiam/start.py", "w").write('import os\nos.syst
 print("Successful")
 print("Команда для сбора: cd /storage/emulated/0/adro_gantiam && python start.py")
 print("Команда для скидания собирающего номера: cd /storage/emulated/0/adro_gantiam && python renew.py")
+input('Press <ENTER> to close console... ')
